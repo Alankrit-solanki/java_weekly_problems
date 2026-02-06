@@ -8,4 +8,15 @@
 <img width="940" height="424" alt="image" src="https://github.com/user-attachments/assets/9c0bc74c-6bf4-4f39-8508-13adf6ab66ed" />
 <img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/f38d47e7-d4cb-4c16-bf6c-e8ad2f01461f" />
 <img width="940" height="396" alt="image" src="https://github.com/user-attachments/assets/5a68bd58-6d7e-435b-a715-96c00c9e2d94" />
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/52221488-3b26-45df-b193-333cc63017c2" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/d739347d-09d0-45f8-bcae-cb25ef77c286" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/4b37bffc-561a-48ec-ad4a-f174c5ef57b2" />
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/c5e291dd-28eb-4a4c-9f21-ede521fce429" />
+<img width="1915" height="867" alt="image" src="https://github.com/user-attachments/assets/f82436bd-a8fd-4fb7-9078-73086bfd1918" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/b8a829ef-ce06-4ce3-8c84-e385633cc877" />
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/608f96f5-c997-4845-9699-d14ad1acefb7" />
+<img width="1916" height="868" alt="image" src="https://github.com/user-attachments/assets/7eb38be1-a060-48cc-bccd-24011bb0daae" />
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/e433b510-ea26-4e00-8f1c-9dd54e9296db" />
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/45b848a2-01b9-48aa-8eb8-ac32586863fa" />
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/973ac211-2266-438a-83db-a2e45b29b3b7" />
 # java_weekly_problems
